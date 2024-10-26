@@ -219,6 +219,8 @@ section {
     display: flex;
     justify-content: space-between;
 }
+.bxl-github:before{content:"\e93a"}
+.bxl-gitlab:before{content:"\e93b"}
 
 .home-sci a {
     position: relative;
