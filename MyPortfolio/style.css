@@ -645,6 +645,7 @@ span {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left : 70px;
     flex-wrap: wrap;
     padding: 2rem 9%;
     background: var(--second-bg-color);
