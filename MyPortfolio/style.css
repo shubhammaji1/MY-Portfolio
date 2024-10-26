@@ -653,6 +653,7 @@ span {
 .footer-text,
 .footer-iconTop {
     position: relative;
+    color: white;
 }
 
 .footer-text p {
